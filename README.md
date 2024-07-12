@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Loredana!
-- 👀 I’m interested in Economics, Data Science and Digital Innovation.
+- 👀 I’m interested in Economics, Data Science, and Artificial intelligence.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on challenging Data Science projects.
 - 📫 How to reach me loredana.fattorini90@gmail.com
